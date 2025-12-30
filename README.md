@@ -9,9 +9,8 @@ This project explores the state of **water access** across communities in **Maji
 
 The analysis uses real survey data enhanced with **AI-based image classification**, identifying the demographic composition of water queues.
 
----
 
-### 📌 Project Overview
+ 📌 Project Overview
 
 Field surveyors collected water source data and queue observations at multiple locations in Maji Ndogo.  
 Using **machine learning**, photographs taken onsite were analyzed to detect and classify:
@@ -28,9 +27,8 @@ The insights are presented using **interactive Power BI dashboards**, designed t
 - NGO & donor infrastructure funding decisions
 - Strategic initiatives for **gender equity** in resource access
 
----
 
-### 🎯 Key Insights
+ 🎯 Key Insights
 
 From SQL analysis and updated datasets:
 
@@ -48,12 +46,13 @@ From SQL analysis and updated datasets:
 - Women & children dominate queue participation  
 - Men contribute more **only on weekends**
 
----
 
-### 🛠 Tools Used
+ 🛠 Tools Used
 
 | Tool | Purpose |
 |------|---------|
 | Power BI | Interactive dashboards & visual storytelling |
 | GIS & Custom Maps | Location-based insights |
+
+---
 
