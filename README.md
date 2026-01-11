@@ -56,3 +56,55 @@ From SQL analysis and updated datasets:
 
 ---
 
+
+## Visualizing Data Project – Part 2  
+
+This project is the **second phase** of the Maji Ndogo Water Access Visualization initiative.  
+While **Part 1** focused on understanding *where* and *why* water access problems exist, **Part 2** focuses on **what should be done next**.
+
+Using data-driven prioritization, this phase translates insights into **actionable infrastructure improvement strategies** supported by clear visual analytics.
+
+
+📌 Project Objective
+
+The goal of Part 2 is to support **decision-making** by:
+
+- Identifying **priority communities** for intervention  
+- Evaluating **water source conditions and failure risks**  
+- Supporting **budget allocation and planning**
+- Ensuring **equitable access**, especially for vulnerable populations  
+
+This phase bridges the gap between **analysis** and **implementation**.
+
+
+🔍 Project Overview
+
+Building on the findings from Part 1, this project:
+
+- Integrates water source condition data
+- Evaluates functionality and reliability of infrastructure
+- Visualizes **repair vs. replacement needs**
+- Highlights communities with **high queue times and unsafe access**
+- Supports **evidence-based prioritization**
+
+Interactive Power BI dashboards are used to communicate findings clearly to stakeholders such as:
+
+- Government agencies
+- NGOs and humanitarian organizations
+- Infrastructure planners and funders
+
+
+🎯 Key Analytical Focus Areas
+
+- **Broken vs. functional water sources**
+- **Communities with extreme queue times**
+- **High-risk water points (wells, shared taps, rural sources)**
+- **Repair urgency vs. replacement necessity**
+- **Resource allocation efficiency**
+
+ 🛠 Tools Used
+
+| Tool | Purpose |
+|------|---------|
+| Power BI | Interactive dashboards & decision visuals |
+
