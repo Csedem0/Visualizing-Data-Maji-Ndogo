@@ -108,3 +108,58 @@ Interactive Power BI dashboards are used to communicate findings clearly to stak
 |------|---------|
 | Power BI | Interactive dashboards & decision visuals |
 
+
+# Visualizing Data Project – Part 3  
+From Planning to Execution: Monitoring Water Infrastructure Improvements in Maji Ndogo
+
+This project represents the **Part 3** of the Maji Ndogo Water Access Visualization series.  
+While **Part 1** focused on understanding the water access problem and **Part 2** prioritized interventions, **Part 3** tracks **implementation progress, costs, and outcomes** of water infrastructure improvements.
+
+The project emphasizes **accountability, monitoring, and impact evaluation** through clear and actionable data visualizations.
+
+
+📌 Project Objective
+
+The primary goal of Part 3 is to:
+
+- Monitor **ongoing and completed infrastructure improvements**
+- Track **budgeted vs. actual improvement costs**
+- Evaluate **progress across communities**
+- Support **transparent reporting** to stakeholders
+- Ensure investments translate into **real improvements in water access**
+
+This phase ensures that planning decisions result in **measurable impact**.
+
+
+🔍 Project Overview
+
+Building on the prioritized improvement plans from Part 2, this project:
+
+- Tracks implementation status by location
+- Compares **planned vs. completed upgrades**
+- Visualizes **financial efficiency**
+- Highlights communities still at risk
+- Enables performance monitoring at national and local levels
+
+Power BI dashboards are used to communicate progress clearly to:
+
+- Government oversight bodies  
+- NGOs and development partners  
+- Project managers and funders  
+
+🎯 Key Focus Areas
+
+- **Improvement status** (Not started, In progress, Completed)
+- **Budgeted vs. actual costs**
+- **Community-level progress tracking**
+- **Remaining high-risk water sources**
+- **Implementation performance indicators**
+
+
+🛠 Tools Used
+
+| Tool | Purpose |
+|------|---------|
+| Power BI | Progress monitoring dashboards |
+
+
