@@ -109,7 +109,7 @@ Interactive Power BI dashboards are used to communicate findings clearly to stak
 | Power BI | Interactive dashboards & decision visuals |
 
 
-# Visualizing Data Project – Part 3  
+## Visualizing Data Project – Part 3  
 From Planning to Execution: Monitoring Water Infrastructure Improvements in Maji Ndogo
 
 This project represents the **Part 3** of the Maji Ndogo Water Access Visualization series.  
