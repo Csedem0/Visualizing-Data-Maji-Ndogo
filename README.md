@@ -165,7 +165,7 @@ Power BI dashboards are used to communicate progress clearly to:
 
 ---
 
-## Visualizing Data Project – Final Part  
+## Visualizing Data Project – 4  
 Public Accountability & Impact Monitoring Dashboard for Maji Ndogo Water Improvements
 
 This project is the **final phase** of the Maji Ndogo Water Access Visualization initiative.  
