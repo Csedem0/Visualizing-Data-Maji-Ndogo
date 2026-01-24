@@ -163,3 +163,81 @@ Power BI dashboards are used to communicate progress clearly to:
 | Power BI | Progress monitoring dashboards |
 
 
+---
+
+## Visualizing Data Project – Final Part  
+Public Accountability & Impact Monitoring Dashboard for Maji Ndogo Water Improvements
+
+This project is the **final phase** of the Maji Ndogo Water Access Visualization initiative.  
+It focuses on **public transparency, financial accountability, and progress monitoring** for ongoing water source improvements across Maji Ndogo.
+
+The dashboard was designed to serve **both the general public and project decision-makers**, ensuring that funds are tracked, progress is visible, and impact is measurable.
+
+
+📌 Project Purpose
+
+The objective of this final phase is to answer one critical question:
+
+> **“Where did the money go, what was achieved, and are we on track?”**
+
+This project delivers a **public-facing Power BI dashboard** that provides:
+
+- Clear visibility into project progress  
+- Transparent financial reporting  
+- Community-level impact insights  
+- Decision-support for project managers and funders  
+
+
+🔍 Project Background
+
+This final phase focuses on **execution and monitoring**.
+
+Local vendors were selected through a rigorous vetting process to carry out improvements.  
+As work commenced, new datasets were introduced to track:
+
+- Project status
+- Actual costs
+- Completion timelines
+- Vendors executing the work
+- Impact on water access and population served
+
+
+👥 User-Centered Design
+
+The dashboard was designed around two core user groups:
+
+🧍 Public Users
+- Which water sources are completed?
+- How much money has been spent?
+- Where was the money spent?
+- What improvements were made in my town?
+
+🧑‍💼 Decision-Makers
+- Overall project completion progress
+- Budget vs. actual spending
+- Spending breakdown by location and improvement type
+- Forecast: will the budget be sufficient?
+- National, provincial, and town-level visibility
+
+A **single dashboard** with interactive filters and drill-downs satisfies both needs.
+
+
+🎯 Key Metrics & Analytics
+
+- **Project Progress (%)**
+- **Completed vs. remaining improvements**
+- **Total expenditure to date**
+- **Budgeted vs. actual costs (KPI tracking)**
+- **Spending by town, province, and improvement type**
+- **Population newly gaining basic water access**
+- **Total population with basic water access**
+- **Timeline-based cost and progress tracking**
+
+🛠 Tools Used
+
+| Tool | Purpose |
+|------|--------|
+| Power BI | Interactive public & management dashboards |
+| DAX | Advanced measures for progress, population & cost |
+| GIS / Shape Maps | National, provincial & town-level mapping |
+
